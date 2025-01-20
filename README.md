@@ -25,13 +25,13 @@
       ```
 ## 📁 프로젝트 구성
 
-### 1. **Seq2Seq_practice.ipynb**
+### 1. **[Seq2Seq_practice.ipynb](https://github.com/limJhyeok/translation_practice/blob/main/Seq2Seq_practice.ipynb)**
 - **주요 내용**
   - Seq2Seq 모델의 기본 구조를 구현하여 소규모 데이터(한 쌍의 번역 문장)를 학습하는 노트북입니다.
 - **구현 이유**
   - 모델이 올바르게 작동하는지 확인하기 위한 간단한 테스트(Sanity Check) 단계입니다.
 
-### 1. **Seq2Seq.ipynb**
+### 1. **[Seq2Seq.ipynb](https://github.com/limJhyeok/translation_practice/blob/main/Seq2Seq.ipynb)**
 - **주요 내용**
   - Seq2Seq 모델의 전체적인 구조를 학습하고 대량의 데이터를 처리할 수 있도록 구현한 노트북입니다.
   - **주요 기능**
@@ -41,7 +41,7 @@
       - PyTorch를 활용한 train & eval loop
         
 
-### 3. **AttnSeq2Seq.ipynb**
+### 3. **[AttnSeq2Seq.ipynb](https://github.com/limJhyeok/translation_practice/blob/main/AttnSeq2Seq.ipynb)**
 - **주요 내용**
   - Attention 메커니즘을 도입하여 Seq2Seq 모델을 개선한 내용을 다룹니다.
   - **주요 기능**
