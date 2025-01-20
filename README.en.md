@@ -32,7 +32,7 @@ This repository is designed to study machine translation using Seq2Seq and Atten
 - **Purpose**:
   - To verify that the model works correctly in a simple sanity check stage.
 
-### 2. **[Seq2Seq.ipynb]((https://github.com/limJhyeok/translation_practice/blob/main/Seq2Seq.ipynb))**
+### 2. **[Seq2Seq.ipynb](https://github.com/limJhyeok/translation_practice/blob/main/Seq2Seq.ipynb)**
 - **Key Contents**:
   - Implements a complete Seq2Seq model designed to handle larger datasets.
 - **Key Features**:
@@ -41,7 +41,7 @@ This repository is designed to study machine translation using Seq2Seq and Atten
     - Seq2Seq model architecture (Encoder, Decoder, Context Vector)
     - Train & evaluation loop using PyTorch
 
-### 3. **[AttnSeq2Seq.ipynb]((https://github.com/limJhyeok/translation_practice/blob/main/AttnSeq2Seq.ipynb))**
+### 3. **[AttnSeq2Seq.ipynb](https://github.com/limJhyeok/translation_practice/blob/main/AttnSeq2Seq.ipynb)**
 - **Key Contents**:
   - Enhances the Seq2Seq model by introducing the Attention mechanism.
 - **Key Features**:
