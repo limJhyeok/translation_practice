@@ -1,5 +1,10 @@
 # Translation Practice
 
+**언어 선택 / Language Selection:**
+
+- [🇰🇷 한국어 (Korean)](README.md)
+- [🇺🇸 English](README.en.md)
+
 이 리포지토리는 자연어 처리에서 사용되는 Seq2Seq 및 Attention 기법을 활용하여 기계 번역을 학습하기 위해 작성되었습니다. PyTorch를 사용하여 데이터 처리, 모델 구성, 학습 및 평가 과정을 다룹니다.
 
 ## 사용한 데이터
