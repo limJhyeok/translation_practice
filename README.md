@@ -71,7 +71,7 @@
     ```
     
 2. `.ipynb` 파일 경로를 확인하고 열기:
-    - 예: `/content/drive/My Drive/translation-practice/Seq2Seq.ipynb`
+    - 예: `/content/drive/My Drive/translation/Seq2Seq.ipynb`
 
 ## 📖 학습 목표
 1. Seq2Seq 및 Attention 기반 번역 모델 구조 이해
